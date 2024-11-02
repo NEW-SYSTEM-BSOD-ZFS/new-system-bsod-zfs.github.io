@@ -102,5 +102,6 @@ page-mathjax: false
 friends:
   [
     { title: "Virtual-Z", href: "https://cn-virtual-z.github.io" },
+    { title: "MSPaintBeta(Bilibili)", href: "https://space.bilibili.com/1697970104" },
     { title: "MS-CHS", href: "https://ms-chs.github.io/" },
   ]
