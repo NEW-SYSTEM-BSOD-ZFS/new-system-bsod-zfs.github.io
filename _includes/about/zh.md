@@ -14,4 +14,4 @@
 
 # 交流群
 
-[Microsoft Teams](https://teams.live.com/l/community/FEA7SF7_cbt37d7qQE)
+[Microsoft Teams](https://teams.live.com/l/invite/FEAHuntyfLEMiyh3gI)
